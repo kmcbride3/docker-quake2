@@ -1,6 +1,0 @@
-echo ---------------------------
-echo DEDICATED WF SERVER STARTUP
-echo ---------------------------
-
-mv wf/qconsole.log wf/qconsole.log.bak
-./qwrap-sol +set dedicated 1 +set port 27911 +set game wf +set gamename wf +exec server.cfg +set noipx 1 &

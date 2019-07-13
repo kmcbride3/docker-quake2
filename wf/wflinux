@@ -1,6 +1,0 @@
-echo ---------------------------
-echo DEDICATED WF SERVER STARTUP
-echo ---------------------------
-
-mv wf/qconsole.log wf/qconsole.log.bak
-nohup ./quake2 +set dedicated 1 +set game wf +set gamename wf +exec server.cfg +set noipx 1 > /dev/null &
