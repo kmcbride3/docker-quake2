@@ -1,0 +1,3470 @@
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 Aug 2000
+		LogTime	23:24:57
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	9.8
+LobsterTail!		F Pickup	Unknown	0	84.8
+LobsterTail!		F Capture	Unknown	15	162.1
+LobsterTail!		F Pickup	Unknown	0	202.3
+LobsterTail!		F Capture	Unknown	15	241.8
+		PlayerRename	LobsterTail!	[SR]Final	270.7
+[SR]Final		F Pickup	Unknown	0	280.2
+[SR]Final		F Capture	Unknown	15	397.1
+[SR]Final		Suicide	Suicide	-1	406.1
+[SR]Final		Suicide	Suicide	-1	477.1
+[SR]Final		F Pickup	Unknown	0	525.9
+[SR]Final		F Capture	Unknown	15	561.4
+[SR]Final		F Pickup	Unknown	0	636.6
+[SR]Final		F Capture	Unknown	15	670.6
+[SR]Final		F Pickup	Unknown	0	707.1
+[SR]Final		F Capture	Unknown	15	752.5
+[SR]Final		F Pickup	Unknown	0	801.9
+[SR]Final		F Capture	Unknown	15	884.0
+[SR]Final		F Pickup	Unknown	0	918.7
+[SR]Final		F Capture	Unknown	15	949.9
+		GameEnd			950.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Aug 2000
+		LogTime	21:57:37
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	BLUE	7.3
+		PlayerRename	LobsterTail!	Parrot	48.8
+		GameEnd			216.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Aug 2000
+		LogTime	22:06:09
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	BLUE	5.8
+		PlayerRename	LobsterTail!	Parrot	9.9
+		PlayerRename	Parrot	LobsterTail!	20.8
+		GameEnd			40.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Aug 2000
+		LogTime	22:07:37
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.5
+		PlayerConnect	LobsterTail!	UNKNOWN	8.5
+		PlayerTeamChange	LobsterTail!	RED	21.5
+		PlayerRename	LobsterTail!	Parrot	35.3
+		PlayerTeamChange	Parrot	BLUE	38.5
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	96.9
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	149.7
+		PlayerConnect	LobsterTail!	UNKNOWN	166.5
+		PlayerTeamChange	LobsterTail!	BLUE	178.6
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	191.8
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	234.0
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	275.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	302.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	331.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	365.5
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	397.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	435.1
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	457.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	465.7
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	486.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	508.2
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	513.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	555.3
+		PlayerRename	LobsterTail!	CarmeX	562.5
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	570.6
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	590.1
+LobsterTail!	CarmeX	Kill	Sniper Rifle - Head Shot	1	636.2
+CarmeX	LobsterTail!	Kill	Sniper Rifle - Leg Shot	1	648.8
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	684.1
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	702.8
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	714.1
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	732.0
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	762.6
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	777.2
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	792.0
+		PlayerTeamChange	CarmeX	BLUE	809.9
+CarmeX		Suicide	Fell	-1	809.9
+		PlayerTeamChange	CarmeX	RED	809.9
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	810.7
+		PlayerDisconnect	LobsterTail!		824.1
+CarmeX	Parrot	Kill	Sniper Rifle	1	881.0
+CarmeX	Parrot	Kill	Sniper Rifle	1	923.3
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	955.5
+Parrot	CarmeX	Kill	Sniper Rifle	1	977.6
+CarmeX	Parrot	Kill	Sniper Rifle	1	1019.0
+Parrot	CarmeX	Kill	Sniper Rifle	1	1051.8
+Parrot	CarmeX	Kill	Sniper Rifle	1	1072.1
+CarmeX	Parrot	Kill	Sniper Rifle	1	1103.2
+Parrot	CarmeX	Kill	Sniper Rifle	1	1148.8
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1183.2
+CarmeX	Parrot	Kill	Sniper Rifle	1	1197.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	1210.3
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	1237.4
+CarmeX	Parrot	Kill	Sniper Rifle	1	1263.1
+Parrot	CarmeX	Kill	Sniper Rifle	1	1296.8
+CarmeX	Parrot	Kill	Sniper Rifle	1	1314.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	1361.1
+CarmeX	Parrot	Kill	Sniper Rifle	1	1393.6
+Parrot	CarmeX	Kill	Sniper Rifle	1	1429.2
+CarmeX	Parrot	Kill	Sniper Rifle	1	1449.7
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1521.7
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1532.2
+CarmeX	Parrot	Kill	Sniper Rifle	1	1548.9
+Parrot	CarmeX	Kill	Sniper Rifle	1	1584.3
+Parrot	CarmeX	Kill	Sniper Rifle	1	1608.3
+CarmeX	Parrot	Kill	Sniper Rifle - Leg Shot	1	1624.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	1635.5
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1657.9
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1715.0
+CarmeX	Parrot	Kill	Sniper Rifle	1	1741.6
+Parrot	CarmeX	Kill	Sniper Rifle	1	1769.0
+CarmeX	Parrot	Kill	Sniper Rifle	1	1782.4
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1801.5
+CarmeX	Parrot	Kill	Sniper Rifle	1	1822.3
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1835.4
+CarmeX	Parrot	Kill	Sniper Rifle	1	1861.5
+CarmeX	Parrot	Kill	Sniper Rifle	1	1895.7
+CarmeX	Parrot	Kill	Sniper Rifle	1	1939.3
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	1954.3
+Parrot	CarmeX	Kill	Sniper Rifle	1	1969.0
+Parrot	CarmeX	Kill	Sniper Rifle	1	1983.3
+Parrot	CarmeX	Kill	Sniper Rifle	1	2016.6
+CarmeX	Parrot	Kill	Sniper Rifle	1	2037.9
+Parrot	CarmeX	Kill	Sniper Rifle	1	2059.0
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2070.6
+CarmeX	Parrot	Kill	Sniper Rifle	1	2091.1
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2116.8
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2140.5
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2160.1
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2176.5
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2187.2
+Parrot	CarmeX	Kill	Sniper Rifle	1	2215.8
+Parrot	CarmeX	Kill	Sniper Rifle	1	2240.8
+Parrot	CarmeX	Kill	Sniper Rifle	1	2253.4
+CarmeX	Parrot	Kill	Sniper Rifle	1	2279.7
+Parrot	CarmeX	Kill	Sniper Rifle	1	2295.0
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2311.4
+CarmeX	Parrot	Kill	Sniper Rifle	1	2329.2
+Parrot	CarmeX	Kill	Sniper Rifle	1	2360.0
+Parrot	CarmeX	Kill	Sniper Rifle	1	2399.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	2412.3
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2426.5
+Parrot	CarmeX	Kill	Sniper Rifle	1	2457.5
+Parrot	CarmeX	Kill	Sniper Rifle	1	2470.5
+Parrot	CarmeX	Kill	Sniper Rifle	1	2491.2
+CarmeX	Parrot	Kill	Sniper Rifle	1	2511.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	2539.3
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2589.1
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2598.9
+Parrot	CarmeX	Kill	Sniper Rifle	1	2613.0
+CarmeX	Parrot	Kill	Grapple	1	2699.1
+Parrot	CarmeX	Kill	Sniper Rifle - Leg Shot	1	2723.0
+Parrot	CarmeX	Kill	Sniper Rifle - Leg Shot	1	2744.9
+CarmeX	Parrot	Kill	Sniper Rifle	1	2768.8
+Parrot		F Pickup	Unknown	0	2834.1
+CarmeX	Parrot	Kill	Sniper Rifle - Leg Shot	1	2841.0
+CarmeX		FC Frag	Unknown	2	2841.0
+CarmeX	Parrot	Kill	Sniper Rifle	1	2913.6
+CarmeX		FC Frag	Unknown	2	2913.6
+Parrot		Suicide	Suicide	-1	2923.0
+Parrot	CarmeX	Kill	Rocket	1	2969.9
+Parrot		F Def	Unknown	1	2969.9
+Parrot		F Capture	Unknown	15	2973.2
+Parrot	CarmeX	Kill	Grapple	1	3024.7
+Parrot	CarmeX	Kill	Hyperblaster	1	3093.6
+Parrot	CarmeX	Kill	Rocket	1	3108.8
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	3125.5
+Parrot	CarmeX	Kill	Rocket	1	3160.1
+Parrot	CarmeX	Kill	Rocket	1	3192.9
+CarmeX	Parrot	Kill	Sniper Rifle	1	3228.8
+Parrot	CarmeX	Kill	Rocket	1	3247.2
+		PlayerDisconnect	CarmeX		3261.4
+		GameEnd			3268.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Aug 2000
+		LogTime	23:44:12
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Aug 2000
+		LogTime	23:44:17
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.2
+		PlayerConnect	LobsterTail!	UNKNOWN	6.3
+		PlayerTeamChange	LobsterTail!	RED	16.2
+		PlayerTeamChange	LobsterTail!	BLUE	22.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	68.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	87.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	140.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	176.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	201.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	215.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	237.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	261.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	275.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	294.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	307.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Leg Shot	1	337.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	354.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	377.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	425.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	448.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	481.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	500.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	534.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	554.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	584.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	625.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	643.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	663.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	696.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	710.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	738.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	751.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	790.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	805.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	825.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	867.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	886.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	899.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	918.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	966.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	980.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1003.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1023.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1040.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1054.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1068.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1094.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1116.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1147.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1184.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1209.6
+		GameEnd			1218.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Aug 2000
+		LogTime	23:12:25
+		LogDeathFlags	786704
+		Map	Slab6 WF - Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.0
+		PlayerTeamChange	LobsterTail!	RED	5.0
+		GameEnd			23.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Aug 2000
+		LogTime	23:19:24
+		LogDeathFlags	786704
+		Map	Slab6 WF - Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.0
+		PlayerTeamChange	LobsterTail!	RED	20.6
+LobsterTail!		F Pickup	Unknown	0	64.1
+LobsterTail!		F Capture	Unknown	15	84.9
+LobsterTail!		F Pickup	Unknown	0	102.2
+LobsterTail!		F Capture	Unknown	15	124.0
+		GameEnd			133.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	24 Aug 2000
+		LogTime	01:40:58
+		LogDeathFlags	786704
+		Map	Slab6 WF - Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.0
+		PlayerTeamChange	LobsterTail!	RED	4.1
+LobsterTail!		F Pickup	Unknown	0	52.9
+LobsterTail!		F Capture	Unknown	15	69.1
+LobsterTail!		F Pickup	Unknown	0	87.6
+LobsterTail!		F Capture	Unknown	15	110.9
+LobsterTail!		F Pickup	Unknown	0	132.8
+LobsterTail!		F Capture	Unknown	15	177.7
+LobsterTail!		F Pickup	Unknown	0	195.3
+LobsterTail!		F Capture	Unknown	15	211.6
+LobsterTail!		F Pickup	Unknown	0	229.7
+LobsterTail!		F Capture	Unknown	15	250.8
+LobsterTail!		F Pickup	Unknown	0	267.2
+LobsterTail!		F Capture	Unknown	15	286.3
+LobsterTail!		F Pickup	Unknown	0	304.2
+LobsterTail!		F Capture	Unknown	15	323.2
+LobsterTail!		F Pickup	Unknown	0	354.8
+LobsterTail!		F Capture	Unknown	15	368.7
+LobsterTail!		F Pickup	Unknown	0	385.7
+LobsterTail!		F Capture	Unknown	15	427.1
+LobsterTail!		F Pickup	Unknown	0	446.6
+LobsterTail!		F Capture	Unknown	15	468.6
+		GameEnd			470.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	24 Aug 2000
+		LogTime	01:49:26
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.2
+		PlayerTeamChange	LobsterTail!	RED	4.0
+LobsterTail!		Suicide	Suicide	-1	10.5
+LobsterTail!		F Pickup	Unknown	0	54.4
+LobsterTail!		F Capture	Unknown	15	83.6
+LobsterTail!		F Pickup	Unknown	0	111.7
+LobsterTail!		F Capture	Unknown	15	139.5
+LobsterTail!		F Pickup	Unknown	0	163.9
+LobsterTail!		F Capture	Unknown	15	192.5
+LobsterTail!		F Pickup	Unknown	0	233.2
+LobsterTail!		F Capture	Unknown	15	268.4
+LobsterTail!		F Pickup	Unknown	0	298.5
+LobsterTail!		F Capture	Unknown	15	340.1
+LobsterTail!		F Pickup	Unknown	0	367.2
+LobsterTail!		F Capture	Unknown	15	402.1
+LobsterTail!		Suicide	Suicide	-1	485.3
+LobsterTail!		F Pickup	Unknown	0	516.7
+LobsterTail!		F Capture	Unknown	15	567.4
+LobsterTail!		F Pickup	Unknown	0	625.8
+LobsterTail!		F Capture	Unknown	15	653.4
+LobsterTail!		Suicide	Rocket	-1	716.4
+LobsterTail!		F Pickup	Unknown	0	742.3
+LobsterTail!		F Capture	Unknown	15	763.6
+LobsterTail!		F Pickup	Unknown	0	800.2
+LobsterTail!		Suicide	Rocket	-1	816.7
+LobsterTail!		F Capture	Unknown	15	846.8
+LobsterTail!		F Pickup	Unknown	0	879.3
+LobsterTail!		F Capture	Unknown	15	903.6
+LobsterTail!		Suicide	Suicide	-1	916.9
+LobsterTail!		F Pickup	Unknown	0	977.2
+LobsterTail!		F Capture	Unknown	15	1105.1
+		GameEnd			1108.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	25 Aug 2000
+		LogTime	04:49:56
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	4.5
+LobsterTail!		F Pickup	Unknown	0	64.1
+LobsterTail!		F Capture	Unknown	15	104.8
+LobsterTail!		F Pickup	Unknown	0	144.6
+LobsterTail!		F Capture	Unknown	15	180.1
+LobsterTail!		F Pickup	Unknown	0	216.7
+LobsterTail!		F Capture	Unknown	15	255.5
+		GameEnd			266.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Aug 2000
+		LogTime	20:17:09
+		LogDeathFlags	786704
+		Map	Slab6 WF - Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.0
+		PlayerTeamChange	LobsterTail!	RED	3.7
+LobsterTail!		F Pickup	Unknown	0	66.1
+		GameEnd			84.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Aug 2000
+		LogTime	20:22:49
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			3.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Aug 2000
+		LogTime	20:22:55
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.2
+		PlayerConnect	LobsterTail!	UNKNOWN	16.0
+		PlayerTeamChange	LobsterTail!	RED	29.5
+		PlayerTeamChange	LobsterTail!	BLUE	30.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	70.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	89.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	114.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	138.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	183.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	207.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	237.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	255.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	282.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	300.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	325.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	362.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	398.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	411.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	458.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	480.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	501.3
+LobsterTail!	LobsterTail!	Kill	Shotgun	1	539.3
+LobsterTail!	LobsterTail!	Kill	Shotgun	1	558.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	600.2
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	649.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	686.9
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	735.1
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	787.0
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	804.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	829.5
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	865.0
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	891.1
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	932.8
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	1018.5
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	1052.9
+LobsterTail!	LobsterTail!	Kill	Rail Gun	1	1086.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1117.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1148.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1168.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1211.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1267.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1299.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1319.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1340.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1360.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1386.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1415.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1437.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1475.0
+		PlayerConnect	LobsterTail!	UNKNOWN	1514.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	1514.6
+LobsterTail!		Suicide	Trigger Hurt	-1	1528.2
+		PlayerRename	LobsterTail!	CarmeX	1531.4
+		PlayerTeamChange	CarmeX	RED	1542.2
+		PlayerRename	LobsterTail!	hiIMluck	1548.9
+hiIMluck	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1563.9
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	1591.4
+LobsterTail!	hiIMluck	Kill	Sniper Rifle	1	1606.3
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	1629.8
+LobsterTail!	hiIMluck	Kill	Sniper Rifle - Head Shot	1	1634.5
+LobsterTail!	hiIMluck	Kill	Sniper Rifle	1	1664.6
+hiIMluck	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1689.5
+LobsterTail!	CarmeX	Kill	Sniper Rifle - Head Shot	1	1703.7
+hiIMluck	LobsterTail!	Kill	Sniper Rifle	1	1712.7
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	1730.5
+LobsterTail!	hiIMluck	Kill	Sniper Rifle - Head Shot	1	1745.0
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	1756.3
+hiIMluck	LobsterTail!	Kill	Sniper Rifle	1	1770.9
+CarmeX	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1791.2
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	1810.9
+LobsterTail!	hiIMluck	Kill	Sniper Rifle	1	1836.9
+		PlayerRename	hiIMluck	Parrot	1841.3
+LobsterTail!		Suicide	Suicide	-1	1856.6
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	1899.4
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	1908.7
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	1913.0
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	1935.7
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	1935.7
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1948.7
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1962.4
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	1974.3
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	1982.0
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1991.6
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2009.9
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2024.5
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2049.9
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2073.0
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2085.6
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	2100.8
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2117.5
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	2137.9
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2159.7
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	2226.4
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2246.1
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	2278.0
+LobsterTail!	CarmeX	Kill	Sniper Rifle - Head Shot	1	2278.0
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2304.1
+CarmeX	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2329.3
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2350.8
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	2376.0
+LobsterTail!	CarmeX	Kill	Sniper Rifle - Head Shot	1	2377.7
+CarmeX	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2409.5
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	2435.7
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	2437.7
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	2455.2
+CarmeX	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2472.3
+Parrot	LobsterTail!	Kill	Sniper Rifle - Leg Shot	1	2489.8
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2512.6
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	2528.2
+CarmeX	LobsterTail!	Kill	Sniper Rifle	1	2535.7
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2563.0
+		PlayerTeamChange	Parrot	RED	2600.7
+Parrot		Suicide	Sniper Rifle	-1	2600.7
+		PlayerTeamChange	Parrot	BLUE	2600.7
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2632.9
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2652.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	2681.2
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2694.9
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2715.0
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2733.6
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2750.9
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2769.3
+CarmeX	Parrot	Kill	Sniper Rifle	1	2789.6
+Parrot	CarmeX	Kill	Sniper Rifle	1	2808.5
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	2821.9
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2838.1
+CarmeX	Parrot	Kill	Sniper Rifle	1	2878.6
+CarmeX	Parrot	Kill	Sniper Rifle	1	2893.6
+Parrot	CarmeX	Kill	Sniper Rifle	1	2906.3
+Parrot	CarmeX	Kill	Sniper Rifle	1	2937.4
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	2951.2
+Parrot	CarmeX	Kill	Sniper Rifle	1	2971.0
+CarmeX	Parrot	Kill	Sniper Rifle	1	2989.9
+		PlayerConnect	LobsterTail!	UNKNOWN	2995.1
+		PlayerTeamChange	LobsterTail!	RED	3008.7
+Parrot	CarmeX	Kill	Sniper Rifle	1	3009.6
+LobsterTail!	Parrot	Kill	Mega Chaingun	1	3028.9
+Parrot	CarmeX	Kill	Sniper Rifle	1	3059.4
+LobsterTail!	Parrot	Kill	Mega Chaingun	1	3061.4
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3078.9
+LobsterTail!	Parrot	Kill	Mega Chaingun	1	3086.9
+LobsterTail!	Parrot	Kill	Mega Chaingun	1	3103.6
+Parrot	CarmeX	Kill	Sniper Rifle	1	3125.4
+CarmeX	Parrot	Kill	Sniper Rifle - Leg Shot	1	3150.5
+LobsterTail!	Parrot	Kill	Mega Chaingun	1	3168.7
+CarmeX	Parrot	Kill	Sniper Rifle	1	3192.6
+LobsterTail!		Suicide	Suicide	-1	3201.1
+Parrot	CarmeX	Kill	Sniper Rifle	1	3223.2
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3237.1
+CarmeX	Parrot	Kill	Sniper Rifle	1	3243.8
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	3268.6
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3296.6
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	3307.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	3328.5
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	3331.0
+Parrot	CarmeX	Kill	Sniper Rifle	1	3353.1
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	3354.2
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	3380.5
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3393.0
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	3400.9
+Parrot	CarmeX	Kill	Sniper Rifle	1	3407.9
+CarmeX	Parrot	Kill	Sniper Rifle - Head Shot	1	3423.4
+LobsterTail!	CarmeX	Kill	Rail Gun	1	3433.0
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3445.3
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3459.4
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	3471.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	3474.0
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3486.3
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	3504.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3512.0
+LobsterTail!	CarmeX	Kill	Rail Gun	1	3540.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3543.0
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	3545.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3556.2
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3567.2
+Parrot	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3571.7
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3585.9
+LobsterTail!	CarmeX	Kill	Sniper Rifle	1	3601.6
+CarmeX	LobsterTail!	Kill	Rail Gun	1	3617.2
+Parrot	CarmeX	Kill	Sniper Rifle - Head Shot	1	3621.3
+Parrot	CarmeX	Kill	Sniper Rifle	1	3635.8
+LobsterTail!		Suicide	Suicide	-1	3638.1
+CarmeX	Parrot	Kill	Rail Gun	1	3654.5
+Parrot	LobsterTail!	Kill	Sniper Rifle	1	3680.3
+CarmeX	Parrot	Kill	Rail Gun	1	3684.5
+LobsterTail!	Parrot	Kill	Sniper Rifle - Head Shot	1	3710.2
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	3737.7
+LobsterTail!	Parrot	Kill	Sniper Rifle	1	3754.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	3773.3
+		PlayerRename	LobsterTail!	LAmerX*	3781.4
+CarmeX	Parrot	Kill	Rail Gun	1	3785.9
+LAmerX*	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3803.5
+CarmeX	LAmerX*	Kill	Rail Gun	1	3821.2
+		PlayerRename	LobsterTail!	[=sZ=]TheOne!	3828.0
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	3842.9
+Parrot	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3844.4
+Parrot	CarmeX	Kill	Sniper Rifle	1	3848.5
+CarmeX	Parrot	Kill	Rail Gun	1	3862.4
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	3863.7
+[=sZ=]TheOne!	Parrot	Kill	Sniper Rifle	1	3901.2
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	3903.3
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	3921.9
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3936.3
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	3938.1
+		PlayerRename	Parrot	[GQF]Riles	3944.8
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	3960.9
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	3962.3
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3968.9
+CarmeX	LAmerX*	Kill	Rail Gun	1	3982.8
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4004.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4007.7
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	4020.7
+LAmerX*	[=sZ=]TheOne!	Kill	Hand Grenade	1	4021.7
+CarmeX	LAmerX*	Kill	Rail Gun	1	4037.3
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4042.3
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4054.0
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	4069.3
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4084.1
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4102.6
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4110.6
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4125.8
+CarmeX	LAmerX*	Kill	Rail Gun	1	4126.7
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4137.5
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	4143.1
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4153.8
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4169.1
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4174.9
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4181.1
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4189.4
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4200.5
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4203.8
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4212.9
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	4217.6
+CarmeX	LAmerX*	Kill	Rail Gun	1	4243.9
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4251.8
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4263.3
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4272.0
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4283.0
+CarmeX	LAmerX*	Kill	Rail Gun	1	4290.1
+[=sZ=]TheOne!		Suicide	Suicide	-1	4301.1
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4329.1
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4331.8
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4352.7
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4356.0
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4369.5
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4372.9
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4390.0
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	4394.1
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4410.4
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	4426.2
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	4430.6
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4452.4
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4459.8
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	4464.4
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4484.8
+CarmeX	LAmerX*	Kill	Rail Gun	1	4489.7
+[=sZ=]TheOne!		Suicide	Suicide	-1	4496.4
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4515.7
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4526.0
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	4540.6
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	4550.8
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4568.1
+CarmeX	LAmerX*	Kill	Rail Gun	1	4581.7
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4584.4
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4613.0
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	4629.5
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4644.7
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4652.2
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4654.5
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4666.6
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4682.7
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4683.6
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4700.1
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	4700.6
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4717.0
+LAmerX*	[=sZ=]TheOne!	Kill	Shotgun	1	4728.0
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4738.3
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4743.8
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4754.2
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4755.9
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4775.3
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4791.2
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4795.7
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	4821.4
+CarmeX	LAmerX*	Kill	Rail Gun	1	4833.0
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	4838.3
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4847.5
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4856.7
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	4866.7
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	4873.2
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4894.1
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	4903.9
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	4904.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	4921.0
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4923.4
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	4947.8
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Leg Shot	1	4955.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	4959.9
+LAmerX*	[=sZ=]TheOne!	Kill	Rail Gun	1	4968.7
+LAmerX*	CarmeX	Kill	Rail Gun	1	4981.7
+LAmerX*	[=sZ=]TheOne!	Kill	Rail Gun	1	4992.9
+CarmeX	LAmerX*	Kill	Rail Gun	1	4994.5
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	5006.9
+CarmeX	LAmerX*	Kill	Rail Gun	1	5012.4
+LAmerX*	CarmeX	Kill	Rail Gun	1	5025.4
+[GQF]Riles	[=sZ=]TheOne!	Kill	Rail Gun	1	5032.8
+[GQF]Riles	CarmeX	Kill	Rail Gun	1	5056.9
+LAmerX*	[=sZ=]TheOne!	Kill	Rail Gun	1	5069.6
+LAmerX*	CarmeX	Kill	Rail Gun	1	5078.9
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5084.8
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5107.4
+[GQF]Riles	CarmeX	Kill	Rail Gun	1	5127.0
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	5141.3
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5142.7
+[GQF]Riles	[=sZ=]TheOne!	Kill	Rail Gun	1	5156.4
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5166.6
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5171.3
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Leg Shot	1	5194.8
+[GQF]Riles	CarmeX	Kill	Rail Gun	1	5196.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5196.6
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5219.4
+[GQF]Riles	CarmeX	Kill	Rail Gun	1	5224.3
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5235.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5255.1
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5259.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5279.9
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5283.6
+LAmerX*	CarmeX	Kill	Rail Gun	1	5294.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	5298.6
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	5301.2
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5330.3
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5338.6
+CarmeX	LAmerX*	Kill	Rail Gun	1	5349.9
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5351.4
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5358.8
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5367.5
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Leg Shot	1	5372.9
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	5375.7
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5392.6
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	5399.8
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5412.0
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5423.4
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5428.8
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5447.7
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	5449.8
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5457.1
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5461.2
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5480.4
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5483.4
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5508.4
+CarmeX	LAmerX*	Kill	Rail Gun	1	5509.0
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	5527.2
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5532.5
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	5544.4
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5564.1
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	5566.9
+CarmeX		Suicide	Suicide	-1	5571.4
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5617.8
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	5619.7
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5621.4
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	5643.2
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	5661.8
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	5663.1
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Head Shot	1	5665.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	5677.9
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5700.2
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5718.2
+LAmerX*	[=sZ=]TheOne!	Kill	Shotgun	1	5729.7
+CarmeX	LAmerX*	Kill	Rail Gun	1	5731.4
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5753.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5758.7
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	5775.8
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5781.1
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5793.3
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5803.4
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle - Leg Shot	1	5818.5
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5834.1
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	5834.4
+LAmerX*	CarmeX	Kill	Sniper Rifle	1	5839.7
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5853.6
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5871.2
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5877.7
+CarmeX	[GQF]Riles	Kill	Rail Gun	1	5887.4
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	5900.1
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5906.5
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5917.9
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5925.4
+CarmeX	LAmerX*	Kill	Rail Gun	1	5938.5
+[GQF]Riles	CarmeX	Kill	Sniper Rifle	1	5950.2
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	5956.5
+LAmerX*	[=sZ=]TheOne!	Kill	Sniper Rifle	1	5960.7
+[GQF]Riles	CarmeX	Kill	Sniper Rifle - Head Shot	1	5970.1
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	5980.2
+LAmerX*	CarmeX	Kill	Sniper Rifle - Head Shot	1	5987.3
+		PlayerDisconnect	CarmeX		5991.0
+[=sZ=]TheOne!	LAmerX*	Kill	Sniper Rifle	1	6008.1
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6008.2
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	6039.5
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6078.5
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6097.9
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6133.0
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	6156.9
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	6171.7
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6194.1
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	6233.0
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6251.3
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6272.0
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6290.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	6302.9
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6329.2
+[GQF]Riles	[=sZ=]TheOne!	Kill	Sniper Rifle	1	6355.7
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle	1	6381.6
+[=sZ=]TheOne!	[GQF]Riles	Kill	Sniper Rifle - Head Shot	1	6411.6
+		PlayerDisconnect	[=sZ=]TheOne!		6412.9
+		PlayerDisconnect	[GQF]Riles		6415.9
+LAmerX*		F Pickup	Unknown	0	11534.3
+		GameEnd			11560.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	28 Aug 2000
+		LogTime	18:35:05
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.2
+		PlayerTeamChange	LobsterTail!	RED	112.1
+LobsterTail!		Suicide	Suicide	-1	271.5
+LobsterTail!		F Pickup	Unknown	0	708.0
+LobsterTail!		F Capture	Unknown	15	742.9
+		GameEnd			770.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	28 Aug 2000
+		LogTime	18:48:45
+		LogDeathFlags	786704
+		Map	Final Showdown
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.5
+		PlayerConnect	LobsterTail!	UNKNOWN	20.4
+		PlayerTeamChange	LobsterTail!	RED	46.6
+		GameEnd			64.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	28 Aug 2000
+		LogTime	18:49:56
+		LogDeathFlags	786704
+		Map	Two StrongHolds - ]II[ B=WARE
+'2nd Edition'
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.3
+		PlayerConnect	LobsterTail!	UNKNOWN	2.3
+		PlayerTeamChange	LobsterTail!	RED	9.1
+		PlayerRename	LobsterTail!	[=sZ=]TheOne!	114.3
+[=sZ=]TheOne!		F Pickup	Unknown	0	258.0
+[=sZ=]TheOne!		F Capture	Unknown	15	311.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	365.6
+[=sZ=]TheOne!		F Capture	Unknown	15	430.6
+		PlayerConnect	LobsterTail!	UNKNOWN	643.6
+		PlayerTeamChange	LobsterTail!	BLUE	668.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	723.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Rocket	1	744.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Rocket	1	768.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	780.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Rocket	1	798.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Rocket	1	830.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Rocket	1	874.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	892.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	931.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	950.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	990.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1003.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1032.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1051.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1088.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1101.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1119.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1144.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1177.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1201.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1217.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1231.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1248.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1259.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1283.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1311.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1333.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	1358.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1381.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1400.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1429.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1441.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1461.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1500.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1514.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1539.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1555.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1583.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1591.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1618.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1651.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1669.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1682.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1712.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1722.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1740.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1764.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1787.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1801.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1817.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1834.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1854.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1869.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1894.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1913.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1930.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1946.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1957.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1981.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1998.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2015.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2025.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2037.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2049.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2058.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2076.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2085.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2110.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2138.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2151.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2177.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2192.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2210.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2219.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2232.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2248.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2256.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2289.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2307.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2318.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2335.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2364.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2374.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2391.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2403.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2417.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2426.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2450.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2464.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2485.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2499.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2532.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2554.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2568.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2579.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2587.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2601.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2612.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2638.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2677.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2696.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2723.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2739.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2752.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2787.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2797.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2821.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2849.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2859.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2872.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2888.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2909.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2931.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2947.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2979.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3014.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3026.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3037.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3062.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3084.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3128.4
+		PlayerDisconnect	[=sZ=]TheOne!		3395.6
+		PlayerDisconnect	LobsterTail!		3895.6
+		PlayerConnect	LobsterTail!	UNKNOWN	8529.1
+		PlayerTeamChange	LobsterTail!	RED	8625.6
+LobsterTail!		F Pickup	Unknown	0	8823.9
+LobsterTail!		F Capture	Unknown	15	8845.6
+LobsterTail!		F Pickup	Unknown	0	8888.9
+LobsterTail!		F Capture	Unknown	15	8914.2
+LobsterTail!		F Pickup	Unknown	0	8933.6
+LobsterTail!		F Capture	Unknown	15	8956.1
+LobsterTail!		F Pickup	Unknown	0	8976.7
+LobsterTail!		F Capture	Unknown	15	9000.4
+LobsterTail!		F Pickup	Unknown	0	9020.1
+LobsterTail!		F Capture	Unknown	15	9055.2
+LobsterTail!		F Pickup	Unknown	0	9072.8
+LobsterTail!		F Capture	Unknown	15	9093.0
+		PlayerRename	LobsterTail!	[=sZ=]TheOne!	13736.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	13925.4
+[=sZ=]TheOne!		F Capture	Unknown	15	13944.2
+[=sZ=]TheOne!		F Pickup	Unknown	0	14110.1
+[=sZ=]TheOne!		F Capture	Unknown	15	14129.3
+		PlayerConnect	LobsterTail!	UNKNOWN	14206.7
+		PlayerTeamChange	LobsterTail!	BLUE	14212.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14245.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14265.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14275.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14295.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14305.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14317.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14347.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Shotgun	1	14368.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14383.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14395.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Blaster	1	14416.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14436.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14446.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14460.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	14468.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14478.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14488.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14530.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	14539.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14554.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Shotgun	1	14584.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Shotgun	1	14614.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14632.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14644.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14662.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14671.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Shotgun	1	14690.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14703.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14715.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14767.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Shotgun	1	14788.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	14800.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Chain Gun	1	14816.7
+LobsterTail!		Suicide	Suicide	-1	14823.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	14846.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Mega Chaingun	1	14858.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	14875.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	14904.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	14964.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	14982.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15008.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15030.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15061.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15088.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15107.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15125.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15140.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15153.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15172.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15187.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15204.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15215.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15229.8
+[=sZ=]TheOne!		Suicide	Suicide	-1	15244.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	15288.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15304.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Mega Chaingun	1	15345.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	15383.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Chain Gun	1	15397.0
+LobsterTail!		Suicide	Suicide	-1	15409.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	15426.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	15451.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	15473.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15486.5
+LobsterTail!		Suicide	Suicide	-1	15489.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	15501.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15518.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15536.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15563.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15584.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15633.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15674.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15692.8
+[=sZ=]TheOne!		Suicide	Suicide	-1	15705.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15729.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	15769.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15804.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	15816.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	15832.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	15859.5
+		PlayerRename	[=sZ=]TheOne!	LobsterTail!	15933.2
+		PlayerConnect	LobsterTail!	UNKNOWN	15947.3
+		PlayerTeamChange	LobsterTail!	RED	15954.1
+LobsterTail!		Suicide	Suicide	-1	15958.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16004.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16026.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16060.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16079.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16102.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16133.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16153.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16191.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16207.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16234.0
+LobsterTail!		Suicide	Suicide	-1	16262.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16287.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16318.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16351.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16378.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16402.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16418.4
+LobsterTail!		Suicide	Suicide	-1	16421.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16445.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16463.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16492.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16511.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16541.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16560.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16584.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16597.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16614.1
+LobsterTail!		Suicide	Suicide	-1	16615.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16652.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16691.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16703.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16725.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16756.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16775.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16795.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16815.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16832.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16857.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16880.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16908.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	16918.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16933.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16952.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16965.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16980.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	16994.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17016.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17038.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17077.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17107.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17126.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17142.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17160.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17172.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17183.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17204.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17250.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17270.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17283.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17316.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17347.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17361.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17386.2
+LobsterTail!		Suicide	Suicide	-1	17398.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17435.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17461.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17488.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17510.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17521.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17537.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17574.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17606.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17632.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17674.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17691.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17714.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17730.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17754.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17784.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17812.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17830.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17846.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17862.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17880.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17912.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17924.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	17949.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	17980.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18005.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18035.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18049.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18059.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18085.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18098.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18111.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18147.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18162.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18169.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18183.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18209.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18233.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18266.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18286.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18295.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18326.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18353.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18378.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18391.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18428.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18450.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18471.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18492.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18519.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18541.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18563.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18587.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18604.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18636.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18649.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18668.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18698.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18721.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18737.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18749.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18762.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18774.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18792.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18817.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18830.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	18846.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18870.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18887.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18918.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18935.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18950.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	18982.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19006.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19034.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19100.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19118.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19129.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19147.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19164.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19174.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19194.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19201.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19220.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19238.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19262.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19278.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19294.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19305.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19316.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19344.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19376.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19406.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19419.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19432.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19447.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19461.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19495.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19515.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19532.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19547.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19562.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19582.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19595.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19624.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19645.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19675.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19697.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19727.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19746.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19761.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19784.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19807.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19823.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19839.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19849.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19858.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19883.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	19903.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19915.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19957.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19981.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	19994.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20020.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20043.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20055.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20068.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20079.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20111.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20122.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20142.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20168.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20205.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20227.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20249.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20294.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20306.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20316.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20327.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20343.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20350.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20368.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20376.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20394.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20411.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20439.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20466.5
+LobsterTail!		Suicide	Suicide	-1	20468.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20488.5
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20505.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20520.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20533.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20541.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20561.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20576.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20588.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20602.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20613.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20633.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20659.9
+LobsterTail!		Suicide	Suicide	-1	20667.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20692.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20705.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20722.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20742.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20759.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20782.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20803.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20828.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20840.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20861.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20877.8
+LobsterTail!		Suicide	Suicide	-1	20878.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20900.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20910.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20928.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20944.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	20960.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	20982.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21005.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21016.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21052.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21081.3
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21096.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21113.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21134.9
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21149.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21158.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21166.0
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21178.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21203.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21226.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21243.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21259.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21273.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21284.7
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21315.4
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21326.8
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21344.6
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21353.2
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle	1	21375.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21390.6
+LobsterTail!		Suicide	Suicide	-1	21393.1
+LobsterTail!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	21413.8
+		PlayerDisconnect	LobsterTail!		21416.7
+		PlayerDisconnect	LobsterTail!		21423.7
+		PlayerTeamChange	LobsterTail!	RED	24895.8
+LobsterTail!		F Pickup	Unknown	0	24968.5
+LobsterTail!		F Capture	Unknown	15	24987.9
+LobsterTail!		F Pickup	Unknown	0	25012.7
+LobsterTail!		Suicide	Trigger Hurt	-1	25014.7
+LobsterTail!		F Pickup	Unknown	0	25062.5
+		GameEnd			45307.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Aug 2000
+		LogTime	21:08:17
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.3
+		PlayerTeamChange	LobsterTail!	RED	3.1
+		GameEnd			12.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Aug 2000
+		LogTime	21:09:06
+		LogDeathFlags	786704
+		Map	Comm Center
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.7
+		GameEnd			10.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Aug 2000
+		LogTime	21:09:26
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.2
+		PlayerConnect	LobsterTail!	UNKNOWN	3.9
+		PlayerTeamChange	LobsterTail!	RED	4.0
+		PlayerTeamChange	LobsterTail!	RED	9.3
+		PlayerConnect	LobsterTail!	UNKNOWN	16.7
+		PlayerTeamChange	LobsterTail!	BLUE	18.2
+		PlayerRename	LobsterTail!	Jeremy	22.2
+		PlayerRename	LobsterTail!	carmex	22.6
+		PlayerRename	LobsterTail!	[=sZ=]TheOne!	29.7
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	54.6
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	68.4
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	74.4
+Jeremy	carmex	Kill	Sniper Rifle	1	118.1
+Jeremy		F Def	Unknown	1	118.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	130.3
+carmex	Jeremy	Kill	Sniper Rifle	1	132.9
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	148.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	162.4
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	172.3
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	180.2
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	186.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	197.3
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	204.7
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	225.3
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	237.3
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Leg Shot	1	256.6
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	270.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	272.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	299.6
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	303.5
+Jeremy	carmex	Kill	Sniper Rifle	1	331.6
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	346.4
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	366.3
+		GameEnd			381.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Aug 2000
+		LogTime	21:15:52
+		LogDeathFlags	786704
+		Map	Two StrongHolds - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	Jeremy	UNKNOWN	2.2
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerConnect	carmex	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.4
+		PlayerTeamChange	Jeremy	RED	4.6
+		PlayerTeamChange	carmex	BLUE	9.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	35.5
+carmex	Jeremy	Kill	Sniper Rifle	1	54.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	56.9
+carmex	Jeremy	Kill	Sniper Rifle	1	68.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	73.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	85.7
+Jeremy	carmex	Kill	Sniper Rifle	1	89.1
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	110.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	120.5
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	122.1
+Jeremy	carmex	Kill	Sniper Rifle	1	145.9
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	163.8
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	174.3
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	191.2
+Jeremy	carmex	Kill	Sniper Rifle	1	204.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	216.4
+Jeremy	carmex	Kill	Sniper Rifle - Head Shot	1	224.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	235.8
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	246.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	264.8
+Jeremy	carmex	Kill	Sniper Rifle	1	290.5
+Jeremy		Suicide	Suicide	-1	293.9
+Jeremy	carmex	Kill	Sniper Rifle	1	315.7
+carmex	Jeremy	Kill	Sniper Rifle - Head Shot	1	324.1
+Jeremy	carmex	Kill	Sniper Rifle	1	356.0
+Jeremy	carmex	Kill	Sniper Rifle	1	374.3
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	402.6
+Jeremy		Suicide	Suicide	-1	406.6
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	427.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	446.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	478.8
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	508.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	517.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	535.0
+carmex		Suicide	Suicide	-1	537.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	551.9
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	572.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	585.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	602.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	610.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	627.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	640.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	664.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	676.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	705.3
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	725.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	745.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	767.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	794.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	816.7
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	832.9
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	845.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	858.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	879.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	890.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	910.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	928.3
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	959.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	993.9
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1090.4
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	1110.5
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1128.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1181.4
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1232.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1260.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1317.3
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1336.3
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1422.1
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1479.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1548.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1565.5
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1579.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1588.0
+carmex		Suicide	Suicide	-1	1637.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1647.5
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1658.8
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	1673.5
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1687.2
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1703.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1713.2
+carmex		Suicide	Suicide	-1	1733.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1768.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1788.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1816.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	1833.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1846.1
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle - Head Shot	1	1855.1
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1895.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1925.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1948.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1970.7
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	1987.3
+carmex		Suicide	Suicide	-1	2013.3
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2042.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2077.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2092.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2137.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2159.9
+carmex		Suicide	Suicide	-1	2162.4
+[=sZ=]TheOne!	carmex	Kill	Sniper Rifle	1	2198.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2215.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2229.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2238.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2255.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2266.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2285.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2301.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2324.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2354.2
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2370.5
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2378.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2386.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2401.6
+carmex	[=sZ=]TheOne!	Kill	Grapple	1	2415.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2436.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2471.5
+carmex		Suicide	Suicide	-1	2472.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2501.8
+carmex		Suicide	Suicide	-1	2503.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2516.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2534.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2543.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2551.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2559.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2567.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2574.0
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2591.1
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2601.6
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2608.8
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2614.4
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2626.9
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2636.7
+carmex	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2646.0
+		PlayerDisconnect	[=sZ=]TheOne!		2649.1
+		PlayerDisconnect	carmex		2656.9
+		GameEnd			5968.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	21:33:41
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	11.1
+LobsterTail!		Suicide	Suicide	-1	110.3
+LobsterTail!		F Pickup	Unknown	0	142.2
+		GameEnd			178.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	21:48:09
+		LogDeathFlags	786704
+		Map	Twin Kingdom Valley 2 - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.7
+		PlayerTeamChange	LobsterTail!	RED	8.5
+		PlayerDisconnect	LobsterTail!		69.4
+		PlayerConnect	LobsterTail!	UNKNOWN	73.3
+		PlayerTeamChange	LobsterTail!	RED	78.8
+LobsterTail!		Suicide	Trigger Hurt	-1	186.7
+		GameEnd			189.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	21:52:37
+		LogDeathFlags	786704
+		Map	2fortme2 Tumorhead Wackem
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.3
+		PlayerTeamChange	LobsterTail!	RED	6.6
+LobsterTail!		F Pickup	Unknown	0	73.0
+		GameEnd			130.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	21:54:51
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			6.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	21:55:04
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1203.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	22:27:40
+		LogDeathFlags	786704
+		Map	2fort Sniper Edition
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.5
+		PlayerTeamChange	LobsterTail!	RED	8.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	22:33:06
+		LogDeathFlags	786704
+		Map	Outpost 1 - By [BCC]Mantis
+
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.1
+		PlayerTeamChange	LobsterTail!	RED	6.2
+LobsterTail!		F Pickup	Unknown	0	96.1
+LobsterTail!		F Capture	Unknown	15	143.8
+		GameEnd			146.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	22:35:45
+		LogDeathFlags	786704
+		Map	Primal Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	6.3
+LobsterTail!		F Pickup	Unknown	0	62.3
+LobsterTail!		Suicide	Rocket	-1	125.1
+		GameEnd			166.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	26 Nov 2000
+		LogTime	22:38:34
+		LogDeathFlags	786704
+		Map	2fort2000 / by Oda
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	5.7
+LobsterTail!		F Pickup	Unknown	0	62.5
+		GameEnd			79.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	28 Nov 2000
+		LogTime	19:04:01
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	BLUE	5.9
+		GameEnd			52.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Nov 2000
+		LogTime	18:39:26
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			172.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Nov 2000
+		LogTime	21:52:23
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			984.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	29 Nov 2000
+		LogTime	22:09:34
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	LobsterTail!	UNKNOWN	2.4
+		PlayerTeamChange	LobsterTail!	RED	10.2
+LobsterTail!		F Pickup	Unknown	0	135.7
+		GameEnd			215.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Dec 2000
+		LogTime	18:03:32
+		LogDeathFlags	786704
+		Map	Two StrongHolds - ]II[ B=WARE
+'2nd Edition'
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.1
+		PlayerDisconnect	[=sZ=]TheOne!		46.8
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	49.3
+		GameEnd			62.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Dec 2000
+		LogTime	18:05:36
+		LogDeathFlags	786704
+		Map	Installation
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.8
+		GameEnd			8.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Dec 2000
+		LogTime	18:05:48
+		LogDeathFlags	786704
+		Map	Two StrongHolds - ]II[ B=WARE
+'2nd Edition'
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	5.8
+		GameEnd			48.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Dec 2000
+		LogTime	18:07:17
+		LogDeathFlags	786704
+		Map	Installation
+		GameStart			0.0
+		GameEnd			2.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Dec 2000
+		LogTime	18:07:23
+		LogDeathFlags	786704
+		Map	Two StrongHolds - ]II[ B=WARE
+'2nd Edition'
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	10.2
+		PlayerConnect	LobsterTail!	UNKNOWN	66.5
+		PlayerTeamChange	LobsterTail!	BLUE	69.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	86.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	101.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	118.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	127.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	152.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	165.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	187.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	215.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	232.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	253.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	272.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	301.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	318.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	342.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	370.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	387.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	407.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	421.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	429.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	462.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	471.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	490.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	511.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	532.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	549.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	570.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	589.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	609.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	639.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	668.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	684.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	700.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	718.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	731.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	747.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	760.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	783.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	831.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	839.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	865.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	887.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	899.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	911.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	934.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	956.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	973.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	984.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1000.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1012.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1029.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1039.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1070.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1090.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1108.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1120.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1130.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1149.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1162.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1176.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1202.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1218.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1232.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1261.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1280.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1295.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1334.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1385.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1400.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1428.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1439.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1452.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1468.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1491.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1520.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1531.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1545.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1557.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1585.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1600.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1613.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1636.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1650.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1669.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1681.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1696.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1716.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1735.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1749.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1770.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1792.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1817.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1832.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1846.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	1855.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1868.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1897.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1917.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	1939.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1964.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1990.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2012.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2025.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2046.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2075.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2092.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2120.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2136.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2151.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2184.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2206.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2213.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2235.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2252.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2275.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2288.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2312.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2337.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2352.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2364.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2380.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2388.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2409.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2447.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2467.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2484.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2506.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2534.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2565.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2573.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2584.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2599.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2626.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2634.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2642.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2660.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2672.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2698.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2735.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2752.6
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2765.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2778.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2790.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2799.5
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2814.3
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2837.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	2864.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2890.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2919.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2935.1
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2952.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2968.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2980.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	2999.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3023.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3038.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3050.0
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3079.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3091.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3107.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3118.0
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3135.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3155.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3178.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3207.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3219.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3233.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3258.9
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3271.9
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3296.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3306.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3323.8
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3345.4
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3364.4
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3376.5
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3404.1
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3429.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3444.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3468.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3487.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3498.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3513.7
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3530.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3554.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3580.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3594.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3611.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3631.7
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3645.2
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	3660.3
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle - Head Shot	1	3677.2
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3694.6
+LobsterTail!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	3704.8
+[=sZ=]TheOne!	LobsterTail!	Kill	Sniper Rifle	1	3721.6
+		PlayerDisconnect	LobsterTail!		3730.4
+		GameEnd			3731.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:33:27
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:33:38
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:34:08
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:34:14
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:34:18
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:35:21
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			587.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:45:28
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:45:33
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			11.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Dec 2000
+		LogTime	12:50:28
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	19.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	71.6
+[=sZ=]TheOne!		F Capture	Unknown	15	98.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	140.3
+[=sZ=]TheOne!		F Capture	Unknown	15	181.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	214.2
+[=sZ=]TheOne!		F Capture	Unknown	15	319.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	357.3
+		GameEnd			864.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Dec 2000
+		LogTime	17:19:35
+		LogDeathFlags	786704
+		Map	2fort8 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Dec 2000
+		LogTime	17:21:54
+		LogDeathFlags	786704
+		Map	2fortme2 Tumorhead Wackem
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	3.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	84.4
+[=sZ=]TheOne!		F Capture	Unknown	15	122.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	223.0
+[=sZ=]TheOne!		F Capture	Unknown	15	270.4
+		GameEnd			274.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jan 2001
+		LogTime	15:07:20
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	7.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	91.0
+[=sZ=]TheOne!		F Capture	Unknown	15	127.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	177.2
+[=sZ=]TheOne!		F Capture	Unknown	15	211.3
+		GameEnd			431.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	31 Jan 2001
+		LogTime	20:23:49
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.3
+[=sZ=]TheOne!		F Pickup	Unknown	0	194.3
+[=sZ=]TheOne!		Suicide	Suicide	-1	295.2
+[=sZ=]TheOne!		Suicide	Suicide	-1	336.6
+[=sZ=]TheOne!		Suicide	Suicide	-1	371.5
+[=sZ=]TheOne!		Suicide	Suicide	-1	393.9
+[=sZ=]TheOne!		Suicide	Suicide	-1	843.5
+		GameEnd			871.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Feb 2001
+		LogTime	13:57:26
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Feb 2001
+		LogTime	13:57:32
+		LogDeathFlags	786704
+		Map	Outer Base
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	0.2
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Feb 2001
+		LogTime	13:57:42
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	8.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	96.6
+[=sZ=]TheOne!		F Capture	Unknown	15	135.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	241.3
+[=sZ=]TheOne!		F Capture	Unknown	15	275.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 Feb 2001
+		LogTime	13:46:09
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			988.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 Feb 2001
+		LogTime	14:04:47
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 Feb 2001
+		LogTime	14:05:11
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 Feb 2001
+		LogTime	14:10:13
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1331.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	04 Mar 2001
+		LogTime	19:07:10
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	04 Mar 2001
+		LogTime	19:07:15
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	11 May 2001
+		LogTime	21:14:19
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 May 2001
+		LogTime	17:54:21
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	9.7
+		PlayerRename	[=sZ=]TheOne!	:RR:OutLaw	18.3
+		GameEnd			225.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 May 2001
+		LogTime	17:59:32
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	5.0
+		PlayerRename	[=sZ=]TheOne!	:RR:Outlaw	6.7
+		GameEnd			118.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 May 2001
+		LogTime	18:03:27
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.9
+		PlayerRename	[=sZ=]TheOne!	:RR:OutLaw	6.4
+:RR:OutLaw		F Pickup	Unknown	0	69.4
+:RR:OutLaw		F Capture	Unknown	15	102.1
+:RR:OutLaw		F Pickup	Unknown	0	166.5
+		GameEnd			198.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	16 May 2001
+		LogTime	18:24:58
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.7
+		PlayerRename	[=sZ=]TheOne!	:RR:Outlaw	18.1
+		PlayerRename	:RR:Outlaw	:RR:OutLaw	22.0
+:RR:OutLaw		F Pickup	Unknown	0	134.8
+		GameEnd			154.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2001
+		LogTime	12:09:44
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.5
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Aug 2001
+		LogTime	00:45:35
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	13.8
+		GameEnd			63.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Aug 2001
+		LogTime	00:56:18
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.3
+		GameEnd			76.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Aug 2001
+		LogTime	01:04:27
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.8
+[=sZ=]TheOne!		Suicide	Suicide	-1	14.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	72.8
+		GameEnd			87.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Aug 2001
+		LogTime	01:14:48
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			247.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	01 Aug 2001
+		LogTime	12:30:56
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	5.9
+		GameEnd			88.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Aug 2001
+		LogTime	20:51:16
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			428.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Aug 2001
+		LogTime	20:58:34
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Aug 2001
+		LogTime	20:59:38
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			19.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Aug 2001
+		LogTime	21:00:10
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			529.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	24 Oct 2001
+		LogTime	02:43:20
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	24 Oct 2001
+		LogTime	03:00:25
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	4.8
+[=sZ=]TheOne!		Suicide	Suicide	-1	5.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	67.9
+[=sZ=]TheOne!		F Capture	Unknown	15	108.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	153.1
+[=sZ=]TheOne!		Suicide	Trigger Hurt	-1	162.6
+		GameEnd			347.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	07:52:11
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	5.0
+[=sZ=]TheOne!		Suicide	Suicide	-1	14.6
+		GameEnd			145.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	08:04:23
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	5.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	48.5
+[=sZ=]TheOne!		F Capture	Unknown	15	67.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	92.8
+[=sZ=]TheOne!		F Capture	Unknown	15	112.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	130.8
+[=sZ=]TheOne!		F Capture	Unknown	15	148.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	193.1
+		GameEnd			208.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	09:48:44
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	78.0
+[=sZ=]TheOne!		F Capture	Unknown	15	99.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	117.0
+[=sZ=]TheOne!		F Capture	Unknown	15	138.0
+		GameEnd			159.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	09:51:49
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	18.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	58.0
+[=sZ=]TheOne!		F Capture	Unknown	15	86.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	161.7
+		GameEnd			855.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	10:57:48
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	208.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	247.6
+		GameEnd			251.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	11:20:23
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	5.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	66.0
+[=sZ=]TheOne!		F Capture	Unknown	15	101.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	1305.5
+[=sZ=]TheOne!		F Capture	Unknown	15	1349.7
+		GameEnd			1525.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	16:32:30
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	230.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	311.6
+[=sZ=]TheOne!		F Capture	Unknown	15	331.3
+		GameEnd			615.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	06 Nov 2001
+		LogTime	20:06:30
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	11.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	56.4
+[=sZ=]TheOne!		F Capture	Unknown	15	86.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	124.6
+[=sZ=]TheOne!		F Capture	Unknown	15	157.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	188.8
+[=sZ=]TheOne!		F Capture	Unknown	15	223.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	251.7
+[=sZ=]TheOne!		F Capture	Unknown	15	288.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	316.3
+[=sZ=]TheOne!		F Capture	Unknown	15	343.3
+[=sZ=]TheOne!		F Pickup	Unknown	0	406.7
+		GameEnd			416.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	00:37:47
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1118.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	00:57:37
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			515.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	01:06:48
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			97.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	01:08:48
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	01:09:07
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			210.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	12:23:47
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			295.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	19:16:21
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			75.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	19:27:30
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			32.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	19:28:18
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			89.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	19:30:13
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			5.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	08 Dec 2001
+		LogTime	19:30:26
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			2.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	25 Dec 2001
+		LogTime	01:14:32
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	54.4
+[=sZ=]TheOne!		F Capture	Unknown	15	81.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	138.0
+[=sZ=]TheOne!		F Capture	Unknown	15	164.2
+[=sZ=]TheOne!		F Pickup	Unknown	0	200.3
+[=sZ=]TheOne!		F Capture	Unknown	15	234.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	262.5
+[=sZ=]TheOne!		F Capture	Unknown	15	289.2
+[=sZ=]TheOne!		F Pickup	Unknown	0	343.2
+[=sZ=]TheOne!		F Capture	Unknown	15	380.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	429.8
+		GameEnd			432.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Dec 2001
+		LogTime	22:31:23
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Dec 2001
+		LogTime	22:31:33
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	18.3
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	23.5
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	23.6
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	31.8
+[=sZ=]TheOne!		Suicide	Blaster	-1	31.8
+		PlayerTeamChange	[=sZ=]TheOne!	RED	31.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	80.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	101.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	118.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	155.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	197.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	214.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	228.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	241.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	262.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	304.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	331.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	348.1
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	377.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	406.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	437.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	467.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	497.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	538.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	579.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	604.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	625.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	649.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	684.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	703.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	735.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	760.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	784.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	798.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	814.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	829.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	846.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	865.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	885.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	903.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	918.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	944.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	964.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	988.1
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1002.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1018.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1048.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1080.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1107.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1125.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1149.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1163.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1176.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1194.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1208.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1225.1
+[=sZ=]TheOne!		Suicide	Suicide	-1	1251.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Rocket	1	1292.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Rocket	1	1318.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Rocket	1	1346.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Rocket	1	1361.3
+		GameEnd			1378.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Jan 2002
+		LogTime	20:41:24
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		GameEnd			37.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jan 2002
+		LogTime	01:01:10
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	5.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	62.9
+[=sZ=]TheOne!		F Capture	Unknown	15	332.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	394.8
+[=sZ=]TheOne!		F Capture	Unknown	15	449.1
+		GameEnd			450.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	13 Jan 2002
+		LogTime	00:19:09
+		LogDeathFlags	786704
+		Map	2fortme2 Tumorhead Wackem
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	71.4
+[=sZ=]TheOne!		F Capture	Unknown	15	119.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	176.3
+		GameEnd			187.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	02 Feb 2002
+		LogTime	00:26:11
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	81.4
+[=sZ=]TheOne!		F Capture	Unknown	15	113.1
+[=sZ=]TheOne!		F Pickup	Unknown	0	139.7
+[=sZ=]TheOne!		F Capture	Unknown	15	175.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	245.2
+[=sZ=]TheOne!		F Capture	Unknown	15	277.2
+		GameEnd			287.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	28 Feb 2002
+		LogTime	22:24:30
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	69.2
+[=sZ=]TheOne!		F Capture	Unknown	15	108.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	174.2
+[=sZ=]TheOne!		F Capture	Unknown	15	271.1
+		GameEnd			275.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	09 Apr 2002
+		LogTime	18:37:10
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	RED	9.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	66.4
+[=sZ=]TheOne!		F Capture	Unknown	15	107.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	140.9
+[=sZ=]TheOne!		F Capture	Unknown	15	284.3
+[=sZ=]TheOne!		F Pickup	Unknown	0	334.1
+[=sZ=]TheOne!		F Capture	Unknown	15	382.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	434.8
+[=sZ=]TheOne!		F Capture	Unknown	15	698.1
+[=sZ=]TheOne!		Suicide	Trigger Hurt	-1	761.3
+[=sZ=]TheOne!		F Pickup	Unknown	0	1099.6
+[=sZ=]TheOne!		F Capture	Unknown	15	1167.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	1204.4
+[=sZ=]TheOne!		F Capture	Unknown	15	1243.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	1278.8
+[=sZ=]TheOne!		F Capture	Unknown	15	1438.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	1481.9
+[=sZ=]TheOne!		F Capture	Unknown	15	1517.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	1572.7
+[=sZ=]TheOne!		F Capture	Unknown	15	1702.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	1739.9
+[=sZ=]TheOne!		F Capture	Unknown	15	1775.6
+[=sZ=]TheOne!		Suicide	Trigger Hurt	-1	1802.4
+		GameEnd			1926.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:02:42
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1245.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:26:22
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			19.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:26:47
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:26:50
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			67.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:28:03
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	6.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	60.1
+[=sZ=]TheOne!		F Capture	Unknown	15	127.2
+		GameEnd			145.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:30:30
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	4.5
+		GameEnd			439.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:54:26
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			3.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	03:54:38
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.7
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	8.2
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	10.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	62.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	91.1
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	108.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	122.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	154.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	208.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	219.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	233.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	249.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	275.9
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	292.5
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	323.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	336.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	347.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	373.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	398.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	414.2
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	510.1
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	535.0
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Grapple	1	574.3
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	591.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	605.8
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	617.7
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	635.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	656.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle	1	675.4
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	695.6
+[=sZ=]TheOne!	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	708.6
+		PlayerRename	[=sZ=]TheOne!	[SR]Final	727.3
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	826.9
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	908.6
+[=sZ=]TheOne!		Suicide	Trigger Hurt	-1	920.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	965.5
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	1013.7
+[SR]Final	[=sZ=]TheOne!	Kill	Rail Gun	1	1083.5
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1128.7
+[SR]Final	[=sZ=]TheOne!	Kill	Rail Gun	1	1188.1
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1208.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1253.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1291.3
+		GameEnd			1302.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	04:16:28
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerConnect	[SR]Final	UNKNOWN	2.3
+		PlayerTeamChange	[SR]Final	BLUE	4.8
+		PlayerTeamChange	[=sZ=]TheOne!	RED	12.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	78.9
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	137.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	173.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	296.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	324.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	350.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	375.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	408.3
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	442.1
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	480.3
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	517.3
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	547.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	575.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	711.5
+		GameEnd			905.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	17 Apr 2002
+		LogTime	05:06:28
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	4.6
+[=sZ=]TheOne!		F Pickup	Unknown	0	65.4
+[=sZ=]TheOne!		Suicide	Suicide	-1	154.5
+[=sZ=]TheOne!		F Pickup	Unknown	0	280.4
+[=sZ=]TheOne!		F Capture	Unknown	15	312.2
+[=sZ=]TheOne!		F Pickup	Unknown	0	428.2
+[=sZ=]TheOne!		Suicide	Rocket	-1	457.9
+		GameEnd			542.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	20 Apr 2002
+		LogTime	03:37:02
+		LogDeathFlags	786704
+		Map	No Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.1
+		PlayerTeamChange	[=sZ=]TheOne!	RED	6.2
+[=sZ=]TheOne!		F Pickup	Unknown	0	186.9
+[=sZ=]TheOne!		F Capture	Unknown	15	290.0
+[=sZ=]TheOne!		F Pickup	Unknown	0	614.8
+[=sZ=]TheOne!		F Capture	Unknown	15	812.5
+		GameEnd			876.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	20 Apr 2002
+		LogTime	03:53:32
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	10.5
+[=sZ=]TheOne!		Suicide	Suicide	-1	824.6
+[=sZ=]TheOne!		Suicide	Kamikazi	-1	1089.8
+[=sZ=]TheOne!		Suicide	Suicide	-1	1174.7
+[=sZ=]TheOne!		F Pickup	Unknown	0	1203.1
+[=sZ=]TheOne!		F Capture	Unknown	15	1257.8
+[=sZ=]TheOne!		F Pickup	Unknown	0	1277.7
+[=sZ=]TheOne!		F Capture	Unknown	15	1298.4
+[=sZ=]TheOne!		Suicide	Trigger Hurt	-1	1311.9
+		GameEnd			1315.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Apr 2002
+		LogTime	00:44:14
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Apr 2002
+		LogTime	00:44:19
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Apr 2002
+		LogTime	00:44:24
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	8.1
+		GameEnd			827.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Apr 2002
+		LogTime	01:06:46
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	RED	5.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	49.9
+[=sZ=]TheOne!		F Capture	Unknown	15	70.9
+[=sZ=]TheOne!		Suicide	Suicide	-1	151.4
+[=sZ=]TheOne!		F Pickup	Unknown	0	172.3
+[=sZ=]TheOne!		Suicide	Suicide	-1	253.1
+[=sZ=]TheOne!		F Capture	Unknown	15	577.0
+		GameEnd			627.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 Apr 2002
+		LogTime	01:18:08
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	4.4
+		GameEnd			761.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	31 May 2002
+		LogTime	03:02:08
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			3.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	31 May 2002
+		LogTime	03:02:24
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.4
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	7.8
+		GameEnd			77.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	31 May 2002
+		LogTime	03:04:18
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	5.9
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	23.0
+		PlayerRename	[=sZ=]TheOne!	[SR]Final	27.6
+		PlayerTeamChange	[=sZ=]TheOne!	RED	28.5
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	91.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	212.3
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	234.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	261.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	295.4
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	322.4
+[SR]Final		Suicide	Suicide	-1	329.5
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	365.8
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	411.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	455.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	497.8
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	498.1
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	525.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	554.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	595.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	620.1
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	646.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	668.3
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	733.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	768.1
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	787.9
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	826.8
+[SR]Final	[=sZ=]TheOne!	Kill	Depot	1	869.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	891.3
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	906.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	945.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	956.9
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	984.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	994.7
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	1045.4
+[SR]Final	[=sZ=]TheOne!	Kill	Depot	1	1058.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1070.5
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1099.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	1114.1
+[SR]Final	[=sZ=]TheOne!	Kill	Armor Piercing Dart	1	1137.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1146.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1208.9
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1243.8
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1290.6
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1317.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1348.4
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1434.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1442.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1489.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1501.6
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	1558.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1579.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1612.6
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1638.3
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	1670.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1688.9
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1714.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1723.8
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1734.5
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1770.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	1780.8
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	1832.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1845.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	1859.1
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1894.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	1907.6
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	1940.4
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2052.4
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2062.5
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2114.6
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2156.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2187.9
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2228.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2266.9
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2292.4
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2325.4
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2358.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2368.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2386.8
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2458.8
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2484.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2534.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2559.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2574.9
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2603.5
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2623.3
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2643.2
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2656.8
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2680.7
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2691.8
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2714.4
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2753.5
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Leg Shot	1	2795.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	2835.7
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle	1	2862.1
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2884.0
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2952.2
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle	1	2967.5
+[SR]Final	[=sZ=]TheOne!	Kill	Sniper Rifle - Head Shot	1	2979.0
+[=sZ=]TheOne!	[SR]Final	Kill	Sniper Rifle - Head Shot	1	3007.6
+		GameEnd			3010.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	27 Aug 2002
+		LogTime	04:10:41
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1245.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	18 Sep 2002
+		LogTime	02:02:54
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1245.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	18 Sep 2002
+		LogTime	02:25:37
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			66.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	17:24:11
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	17:24:49
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	17:24:55
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	17:25:09
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1245.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	17:47:17
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1190.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:07:30
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1197.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:27:37
+		LogDeathFlags	786704
+		Map	2fort7 WF
+By Tumorhead and Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.3
+		PlayerTeamChange	[=sZ=]TheOne!	RED	10.9
+[=sZ=]TheOne!		F Pickup	Unknown	0	306.2
+[=sZ=]TheOne!		F Capture	Unknown	15	356.6
+[=sZ=]TheOne!		Suicide	Suicide	-1	463.1
+		GameEnd			548.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:36:47
+		LogDeathFlags	786704
+		Map	Cancer1 WF/Tumorhead
+		GameStart			0.0
+		PlayerConnect	[=sZ=]TheOne!	UNKNOWN	2.2
+		PlayerTeamChange	[=sZ=]TheOne!	BLUE	7.3
+[=sZ=]TheOne!		Suicide	Rocket	-1	105.8
+		GameEnd			135.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:39:03
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			8.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:39:14
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			4.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:39:19
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			4.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:39:27
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			67.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:41:19
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			22.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:41:50
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			35.1
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:43:03
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			189.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	03 Apr 2009
+		LogTime	18:46:29
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1646.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:07:23
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:07:40
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:07:53
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1190.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:28:07
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			25.0
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:29:11
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			110.6
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:32:09
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			494.7
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:40:38
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			373.9
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	23 May 2009
+		LogTime	01:47:25
+		LogDeathFlags	786704
+		Map	
+		GameStart			0.0
+		GameEnd			1118.2
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:51:35
+		LogDeathFlags	786704
+		Map	Citadels at War / by Oda
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:53:17
+		LogDeathFlags	786704
+		Map	Pray for Death / by Oda
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:54:24
+		LogDeathFlags	786704
+		Map	Tumor's Fort
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:54:41
+		LogDeathFlags	786704
+		Map	2fortme2 Tumorhead Wackem
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:54:59
+		LogDeathFlags	786704
+		Map	Zardoz 5 Rampage/ Tumorhead
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:55:32
+		LogDeathFlags	786704
+		Map	Stronghold WF
+by Lunitari[Rav]
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:55:56
+		LogDeathFlags	786704
+		Map	Slab7 by ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:56:22
+		LogDeathFlags	786704
+		Map	Primal Fear - ]II[ B=WARE
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:56:38
+		LogDeathFlags	786704
+		Map	Headshot2 - Tumorhead
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:57:06
+		LogDeathFlags	786704
+		Map	Return of the Lava Kings 
+ 
+     By Odalisque
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:58:17
+		LogDeathFlags	786704
+		Map	Castle CYE                 By RaMpAgE
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.4
+		GameEnd			6.8
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	19:59:46
+		LogDeathFlags	786704
+		Map	Federal 4 Special Edition
+By Tumorhead & =V3N0M=
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	20:00:25
+		LogDeathFlags	786704
+		Map	Federal Building
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.3
+		StdLog	 1.22
+		PatchName	The Weapons Factory
+		LogDate	12 Jul 2019
+		LogTime	20:00:48
+		LogDeathFlags	786704
+		Map	Federal 4 Special Edition
+By Tumorhead & =V3N0M=
+		GameStart			0.0
+		PlayerConnect	=V3N0M=	UNKNOWN	0.2
+		GameEnd			6.8

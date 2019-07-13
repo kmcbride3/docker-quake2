@@ -1,0 +1,6 @@
+echo ---------------------------
+echo DEDICATED WF SERVER STARTUP
+echo ---------------------------
+
+mv wf/qconsole.log wf/qconsole.log.bak
+nohup ./q2ded +set dedicated 1 +set game wf +set gamename wf +exec server.cfg +set noipx 1 > /dev/null &

@@ -1,0 +1,172 @@
+#!/usr/bin/perl
+# Edit this directory path and executable if needed.
+# You should not need to touch anything else. 
+
+$q2svdir = "/usr/quake2";
+$q2srvexe = "./quake2"
+
+#		Hacked to support Quake2 by Tapper on 02/05/99
+#
+#
+#		NOTE: this is a very handy thing to put in your rc.local
+#		to automagically start your servers and keep them running.
+#		It does however take 840K of RAM so make sure you can spare
+#		that much for each Quake server.
+#
+# COPYRIGHT:    1997 Geoff Baysinger
+# USEAGE:       Released under GNU Generic Public License (http://www.gnu.org/)
+# VERSION:      1.00-19970811
+# SOURCE:       available from http://fly.hiwaay.net/~gbaysing/
+# SYNTAX:	May be called 2 ways:
+#		1) qwrap <comandline arguments just like qwsv>
+#		   example 1: (starts a normal DM server)
+#			qwrap
+#		   example 2: (starts a CTF server on port 27700)
+#			qwrap +gamedir ctf -port 27700
+#		2) qwrap -kill <port#>
+#		   kills the quake server running on <port#> 
+#		   IF it was started via qwrap (buggy, see notes!)
+#
+# NOTES:	1) This program has 1 specific flaw ... if you try to run a 
+#		   second quake server on the same port it will overwrite the
+# 		   first servers PID, making it so that "qwrap -kill <port#>" 
+# 		   won't work. I don't know Sockets well enough to check to see
+#		   if a socket is bound before executing the code that logs
+# 		   PIDs ... wish I did but I don't. This is not fatal, you can
+#		   still kill it via the normal methods. Just MAKE SURE you kill
+#		   the "qwrap" process or it will just spawn a new server ;)
+#
+#		2) This program assumes you have a "logs" directory in the 
+#		   directory with "qwsv". You probably don't so create one first.
+#
+#		3) This program creates 3 types of logs. Each log's filename
+#		   begins with <port#>.YYMMDD-HH:MM:SS.typeoflog. The 3 log 
+#		   types are:
+#			A) ".log" - the normal console output (like nohup.out)
+#			B) ".crash" - the last 20 lines of the .log from a
+#			   crashed server (so that you can keep the errors but
+#			   regularly remove the huge .log files)
+#			   NOTE: The date/time reported by the .crash log's
+#			   filename is when the quake server STARTED, not
+#			   when it crashed.
+#			C) ".die" - a short error message generated whenever
+#			   "qwrap" dies trying to start the quake server.
+#
+#		   examples:
+#		   970811-12:15:01.log - normal console log generated on
+#			August 11th, 1997 at 12:15:01pm.
+#		   970811-12:15:01.crash - the crash log, means that the
+#			above server crashed at some point.		
+#		   970811-12:15:01.die - A log that show that "qwrap" died
+#			while trying to spawn the quake server. You need
+#			to figure out why before "qwrap" will work again.
+
+# Kill the PID in the <port#>.log file to kill the quake server.
+if ($ARGV[0] eq "-kill") {
+  $port = $ARGV[1];
+  open(PID,"$q2svdir/logs/$port.pid") || die "qwrap: couldn't open
+$port.pid to kill process:\n$!\n";
+  $pid = (<PID>);
+  close PID;
+  unlink("$q2svdir/logs/$port.pid");
+  kill -9, $pid;
+  print "qwrap ... Killed: $pid\n";
+  exit;
+}
+
+# no buffering, I hate buffering, buffering sucks my output
+$|=1;
+
+# copy all commandline options to the $args var
+for $i (@ARGV) { $args .= " $i" }
+if ($args =~ /\ -port\ ([0-9]{1,})/) { 
+  $port = $1;
+} else { $port = "27910" }
+
+# change to our Quake directory
+# it -could- just open $q2svdir/qwsv but that makes the command
+# line too long to display the GAMEDIR under "top" and I like to
+# monitor my servers with "top" showing the commandline
+open(PWD,"pwd |"); $olddir = (<PWD>); close PWD; chop $olddir;
+chdir "$q2svdir";
+
+# retrieve our time and put it in a pretty format
+($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
+$mon++; if (length($sec) == 1) { $sec = "0$sec" } if (length($mon) == 1) {
+$mon = "0$mon" } if (length($mday) == 1) { $mday = "0$mday" }
+
+# Try and start our server
+QUAKE: unless ($out =~ /bind: Address already in use/) {
+# Save the last 20 lines of the last time we ran the process
+  if ($out) { 
+    open(CRASH,"> logs/$port.$year$mon$mday-$hour:$min:$sec.crash");
+    print CRASH $out;
+    close CRASH;
+    undef $out;
+  }
+
+# if we can't even OPEN quake then we gotta die.
+  open(QUAKE,"$q2srvexe $args |") || &DIE("noquake");
+# Store our PID in a log file
+# wait until here so we know we bound the server ok
+# only save the PID log once
+  unless ($pidsaved) {
+#    print "qwrap running on port $port. PID: $$\n";
+    $pidsaved = 1;
+    open(PID,"> logs/$port.pid");
+    print PID "$$";
+    close PID;
+  }
+
+  open(LOG,"> logs/$port.$year$mon$mday-$hour:$min:$sec.log");
+  while (<QUAKE>) { 
+    print LOG;
+# keep the last 20 lines of the log
+# this is to help me keep track of ALL crashes while still being able
+# to remove the larger .log files
+    $line20 = $line19;$line19 = $line18;$line18 = $line17;$line17 =
+$line16;$line16 = $line15;$line15 = $line14;$line14 = $line13;$line13 =
+$line12;$line12 = $line11;$line11 = $line10;
+    $line10 = $line09;$line09 = $line08;$line08 = $line07;$line07 =
+$line06;$line06 = $line05;$line05 = $line04;$line04 = $line03;$line03 =
+$line02;$line02 = $line01;$line01 = $_;
+    $out =
+"$line01$line02$line03$line04$line05$line06$line07$line08$line09$line10$line11$line12$line13$line14$line15$line16$line17$line18$line19$line20";
+  }
+
+# If the server that crashed was started less than 1 minute earlier don't 
+# try again. This is to keep this script from executing when it just ain't
+# gonna work.
+  $oldtime = $time;
+  $time = time;
+  if (($time - $oldtime) < 60) { &DIE("looped") }
+
+  goto QUAKE;
+# This is what happens when you can't bind to the specified port
+# (usually because a server already is running on that port)
+} else { &DIE("bind") }
+
+sub DIE {
+  $nopid = 1;
+  open(DIE,"> logs/$port.$year$mon$mday-$hour:$min:$sec.die");
+  if ($_[0] eq "noquake") {
+    print DIE "$year$mon$mday-$hour:$min:$sec\ncouldn't open QUAKE\nargs:
+$args\n$!\n";
+    print "$year$mon$mday-$hour:$min:$sec\ncouldn't open QUAKE\nargs:
+$args\n$!\n";
+  } elsif ($_[0] eq "looped") {
+    print DIE "$year$mon$mday-$hour:$min:$sec\nAppear to be in a
+loop.\nargs: $args\n out:\n$out\n";
+    print "$year$mon$mday-$hour:$min:$sec\nAppear to be in a loop.\nargs:
+$args\n out:\n$out\n";
+  } elsif ($_[0] eq "bind") {
+    print DIE "$year$mon$mday-$hour:$min:$sec\nbind: Address already in
+use\nargs: $args\n";
+    print "$year$mon$mday-$hour:$min:$sec\nbind: Address already in
+use\nargs: $args\n";
+  }
+  close DIE;
+  chdir "$olddir";
+  exit;
+}
+
