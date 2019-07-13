@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:18.04
 MAINTAINER Tim Sogard <docker@timsogard.com>
 add . /opt/quake2
 run useradd -m -s /bin/bash quake2
