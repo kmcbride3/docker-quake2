@@ -5,6 +5,11 @@ run useradd -m -s /bin/bash quake2
 run chown -R quake2:quake2 /opt/quake2
 run apt-get update
 run apt-get install wget -y
+apt install -y wget 
+	zlib1g:i386 
+	libc6:i386 
+	libstdc++6:i386 && 
+
 run wget https://skuller.net/q2pro/nightly/q2pro-server_linux_i386.tar.gz -O- | tar zxvf - -C /opt/quake2
 expose 27910
 workdir /opt/quake2
