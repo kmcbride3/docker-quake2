@@ -4,7 +4,7 @@ add . /opt/quake2
 run useradd -m -s /bin/bash quake2
 run chown -R quake2:quake2 /opt/quake2
 run dpkg --add-architecture i386
-run apt-get update && apt-get upgrade
+run apt-get update && apt-get upgrade -y
 run apt-get install wget -y
 run apt-get install libc6-i386 -y
 run apt-get install lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 -y
