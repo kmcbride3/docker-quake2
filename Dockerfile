@@ -6,7 +6,8 @@ run chown -R quake2:quake2 /opt/quake2
 run dpkg --add-architecture i386
 run apt-get update && apt-get upgrade -y
 run apt-get install wget -y
-run apt-get install gcc libc6 libc6-i386 lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 -y
+run apt-get install build-essential libc6 libc6-i386 lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 -y
+run apt-get install libsdl2-dev libopenal-dev libpng-dev libjpeg-dev zlib1g-dev mesa-common-dev libcurl4-gnutls-dev -y
 run wget https://skuller.net/q2pro/nightly/q2pro-server_linux_i386.tar.gz -O- | tar zxvf - -C /opt/quake2
 expose 27910
 workdir /opt/quake2
